@@ -95,3 +95,34 @@
     height: 100%;
     object-fit: cover;
 }
+.objectifs{
+    height: 100vh;
+    background-color: bisque;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.objectif{
+    background-color: white;
+    width: 40vw;
+    height: 75vh;
+    display: flex;
+    flex-direction: column;
+}
+.objectif > .objectif-item{
+    background-color: white;
+    width: 100%;
+    height: 250px;   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.objectif > .objectif-item > img{
+    width: 50%;
+    height: 100%;
+    object-fit: cover;
+}
+.objectif > .objectif-item > p{
+    width: 50%;
+    height: 100%;
+}
