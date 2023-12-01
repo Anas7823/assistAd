@@ -126,3 +126,18 @@
     width: 50%;
     height: 100%;
 }
+.localisation{
+    width: 100%;
+    justify-content: center;
+    padding: 5%;
+    border: 1px solid #d63031;
+}
+
+.localisation  .info-addresse{
+    margin: auto;
+    margin-top: 5%;
+    align-items: start;
+    justify-content: space-around;
+    align-items: center;
+    width: 50%;
+}
