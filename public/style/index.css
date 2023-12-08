@@ -127,10 +127,11 @@
     height: 100%;
 }
 .localisation{
-    width: 100%;
+    width: 80%;
     justify-content: center;
     padding: 5%;
-    border: 1px solid #d63031;
+    /* border: 1px solid #d63031; */
+    margin: auto;
 }
 
 .localisation  .info-addresse{
@@ -140,4 +141,36 @@
     justify-content: space-around;
     align-items: center;
     width: 50%;
+}
+
+.localisation-item{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    margin: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif    ;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+footer{
+    background-color: #d63031 !important;
+    color: white;
+    height: 20vh;
+    width: 100%;
+    margin: auto;
+}
+
+.logo-footer{
+    width: 40%;
+    height: 40%;
+    object-fit: cover;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+footer  .col{
+    border: 1px solid white;
+    height: 100%;
 }
