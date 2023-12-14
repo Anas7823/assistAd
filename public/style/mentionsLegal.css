@@ -1,0 +1,39 @@
+body{
+    overflow-x: hidden;
+}
+.mentions-legal{
+    width: 100vw;
+    min-height: 90vh;
+    margin-top: 2rem !important;
+    margin-bottom: 2rem;
+    padding: 1rem;
+}
+
+.text-mentions{
+    width: 65%;
+    margin: 0 auto; 
+    text-align: justify;
+    font-size: 1.2rem;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    color: #000;
+}
+.text-mentions a{
+    color: #2b6cb0;
+    transition: all .1s linear;
+}
+.gmfassist-info{
+    display: flex;
+    flex-direction: column;
+}
+.titre-secondaire{
+    color: #000;
+    font-weight: 700;
+    text-decoration: underline;
+    font-size: 18px;
+}
+
+.conception{
+    display: flex;
+    flex-direction: column;
+}
