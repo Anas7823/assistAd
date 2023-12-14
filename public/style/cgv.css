@@ -1,0 +1,18 @@
+.cgv{
+    width: 55vw !important;
+    margin-top: 4rem;
+}
+.paragraphe{
+    margin: 2rem 0;
+}
+.paragraphe .titre-para{
+    font-size: 20px;
+    font-weight: 700;
+    font-style: italic;
+    margin-bottom: 1rem;
+}
+.paragraphe .texte-para{
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 1rem;
+}
