@@ -1,0 +1,14 @@
+.services{
+    min-height: 50vh;
+}
+.le-service{
+    margin: 20px !important;
+}
+
+.le-service .card-title{
+    height: 40px;
+}
+
+.le-service .btn{
+    margin-top: 10px;
+}
