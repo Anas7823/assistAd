@@ -6,11 +6,11 @@ let services = document.querySelector('#services')
         },
         {
             nom: 'Titre de séjour',
-            lien: './page-service/travaux.html',
+            lien: './page-service/titre-sejour.html',
         },
         {
             nom: 'DCEM',
-            lien: './page-service/travaux.html',
+            lien: './page-service/dcem.html',
         },
         {
             nom: 'Naturalisation',
@@ -22,7 +22,7 @@ let services = document.querySelector('#services')
         },
         {
             nom: 'Timbre fiscale',
-            lien: './page-service/travaux.html',
+            lien: 'https://timbres.impots.gouv.fr/index.jsp',
         },
         {
             nom: 'Autorisation de travail',
