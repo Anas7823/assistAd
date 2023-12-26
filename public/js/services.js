@@ -14,7 +14,7 @@ let services = document.querySelector('#services')
         },
         {
             nom: 'Naturalisation',
-            lien: './page-service/travaux.html',
+            lien: './page-service/naturalisation.html',
         },
         {
             nom: 'Regroupement et reunification familiale',
