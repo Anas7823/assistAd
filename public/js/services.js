@@ -30,15 +30,15 @@ let services = document.querySelector('#services')
         },
         {
             nom: 'Visa pour la France',
-            lien: './page-service/travaux.html',
+            lien: './page-service/visa-pour-la-france.html',
         },
         {
             nom: 'Etat-civil',
-            lien: './page-service/travaux.html',
+            lien: './page-service/etat-civil.html',
         },
         {
             nom: 'Carte nationale d\'identité française',
-            lien: './page-service/travaux.html',
+            lien: './page-service/carte-nationale-identité-fr.html',
         },
         {
             nom: 'Passeport',
