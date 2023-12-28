@@ -42,11 +42,11 @@ let services = document.querySelector('#services')
         },
         {
             nom: 'Passeport',
-            lien: './page-service/travaux.html',
+            lien: './page-service/passeport.html',
         },
         {
             nom: 'Permis de conduire',
-            lien: './page-service/travaux.html',
+            lien: './page-service/permis.html',
         },
         {
             nom: 'Consulats',
