@@ -54,15 +54,15 @@ let services = document.querySelector('#services')
         },
         {
             nom: 'Assurance maladie',
-            lien: './page-service/travaux.html',
+            lien: './page-service/assurance-maladie.html',
         },
         {
             nom: 'CAF',
-            lien: './page-service/travaux.html',
+            lien: './page-service/caf.html',
         },
         {
             nom: 'Logement',
-            lien: './page-service/travaux.html',
+            lien: './page-service/logement.html',
         },
         {
             nom: 'Retraite',
