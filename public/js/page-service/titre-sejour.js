@@ -2,19 +2,19 @@ let services = document.querySelector('#services')
     let lesServices = [
         {
             nom: 'Première demande',
-            lien: './travaux.html',
+            lien: './titre-sejour/premiere-demande.html',
         },
         {
             nom: 'Renouvellement',
-            lien: './travaux.html',
+            lien: './titre-sejour/renouvellement.html',
         },
         {
             nom: 'Changement de statut',
-            lien: './travaux.html',
+            lien: './titre-sejour/changement-de-statut.html',
         },
         {
             nom: 'Carte de résident (10 ans)',
-            lien: './travaux.html',
+            lien: './titre-sejour/carte-de-resident.html',
         },
         {
             nom: 'Modification',
