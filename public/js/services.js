@@ -70,15 +70,15 @@ let services = document.querySelector('#services')
         },
         {
             nom: 'Handicap',
-            lien: './page-service/travaux.html',
+            lien: './page-service/handicap.html',
         },
         {
             nom: 'Allocations chômage',
-            lien: './page-service/travaux.html',
+            lien: './page-service/allocations-chomages.html',
         },
         {
             nom: 'Impôts',
-            lien: './page-service/travaux.html',
+            lien: './page-service/impots.html',
         },
         {
             nom: 'Carte électorale',
@@ -90,7 +90,7 @@ let services = document.querySelector('#services')
         },
         {
             nom: 'Casier judiciaire',
-            lien: './page-service/travaux.html',
+            lien: './page-service/casier-judiciaire.html',
         },
         {
             nom: 'Autres démarches administratives',
