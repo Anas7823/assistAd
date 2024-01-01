@@ -18,19 +18,19 @@ let services = document.querySelector('#services')
         },
         {
             nom: 'Modification',
-            lien: './travaux.html',
+            lien: './titre-sejour/modification.html',
         },
         {
             nom: 'Duplicata',
-            lien: './travaux.html',
+            lien: './titre-sejour/duplicata.html',
         },
         {
             nom: 'Changement d\'adresse',
-            lien: './travaux.html',
+            lien: './titre-sejour/changement-dadresse.html',
         },
         {
             nom: 'Retrait de titre de séjour',
-            lien: './travaux.html',
+            lien: './titre-sejour/retrait.html',
         },
         {
             nom: 'Visa long séjour valant titre de séjour (VLS-TS)',
