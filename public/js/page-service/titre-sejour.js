@@ -34,23 +34,23 @@ let services = document.querySelector('#services')
         },
         {
             nom: 'Visa long séjour valant titre de séjour (VLS-TS)',
-            lien: './travaux.html',
+            lien: './titre-sejour/visa.html',
         },
         {
             nom: 'Renouvellement de Récépissé',
-            lien: './travaux.html',
+            lien: './titre-sejour/renouvellement-recepisse.html',
         },
         {
             nom: 'Renouvellement d\'autorisation provisoire de séjour',
-            lien: './travaux.html',
+            lien: './titre-sejour/renouvellement-aps.html',
         },
         {
             nom: 'Renouvellement d\'attestation d\'asile',
-            lien: './travaux.html',
+            lien: './titre-sejour/renouvellement-asile.html',
         },
         {
             nom: 'Renouvellement d\'attestation de dépôt',
-            lien: './travaux.html',
+            lien: './titre-sejour/renouvellement-depot.html',
         },
 
     ]
