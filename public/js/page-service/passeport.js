@@ -2,11 +2,11 @@ let services = document.querySelector('#services')
     let lesServices = [
         {
             nom: 'Passeport français',
-            lien: './travaux.html',
+            lien: './passeport/passeport-francais.html',
         },
         {
             nom: 'Titre de voyage',
-            lien: './travaux.html',
+            lien: './passeport/titre-de-voyage.html',
         }
     ]
 
