@@ -2,15 +2,15 @@ let services = document.querySelector('#services')
     let lesServices = [
         {
             nom: 'AME',
-            lien: './travaux.html',
+            lien: './assurance-maladie/ame.html',
         },
         {
             nom: 'Carte vitale',
-            lien: './travaux.html',
+            lien: './assurance-maladie/carte-vitale.html',
         },
         {
             nom: 'CSS (CMU)',
-            lien: './travaux.html',
+            lien: './assurance-maladie/css.html',
         }
     ]
 
