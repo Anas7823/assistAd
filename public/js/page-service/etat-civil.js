@@ -2,36 +2,36 @@ let services = document.querySelector('#services')
     let lesServices = [
         {
             nom: 'Acte de naissance',
-            lien: './travaux.html',
+            lien: './etat-civil/naissance.html',
         },
         {
             nom: 'Acte de mariage',
-            lien: './travaux.html',
+            lien: './etat-civil/acte-de-mariage.html',
         },
         {
             nom: 'Acte de décès',
-            lien: './travaux.html',
+            lien: './etat-civil/acte-de-deces.html',
         },
         {
             nom: 'Dossier de mariage',
-            lien: './travaux.html',
+            lien: './etat-civil/dossier-de-mariage.html',
         },
         {
             nom: 'Dossier de pacs',
-            lien: './travaux.html',
+            lien: './etat-civil/pacs.html',
         },
         {
             nom: 'Concubinage',
-            lien: './travaux.html',
+            lien: './etat-civil/concubinage.html',
         },
         {
             nom: 'Livret de famille',
-            lien: './travaux.html',
+            lien: './etat-civil/livret-de-famille.html',
         },
         
         {
             nom: 'Transcription d\'un mariage à Nantes',
-            lien: './travaux.html',
+            lien: './etat-civil/transcription-mariage-nantes.html',
         },
         
     ]
