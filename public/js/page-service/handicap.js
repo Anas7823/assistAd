@@ -2,11 +2,11 @@ let services = document.querySelector('#services')
     let lesServices = [
         {
             nom: 'A.A.H',
-            lien: './travaux.html',
+            lien: './handicap/aah.html',
         },
         {
             nom: 'P.C.H',
-            lien: './travaux.html',
+            lien: './handicap/pch.html',
         }
     ]
 
